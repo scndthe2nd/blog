@@ -1,3 +1,3 @@
-# Test 1 Blog
-
-test1
+---
+Title: Test 1 Blog
+---
